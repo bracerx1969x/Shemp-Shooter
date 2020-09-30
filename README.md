@@ -1,2 +1,2 @@
-# Shemp-Shooter
+# Shmup-Shooter
 Shoot 'em up (Shemp) Shooter game 
